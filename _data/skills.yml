@@ -18,7 +18,8 @@ tools:
   - item: Bash
   - item: Git & Github
   - item: Nginx
-  - item: Amazon Web Services & Google Cloud
+  - item: Amazon Web Services 
+  - item Google Cloud
   - item: Chrome DevTools
 
 languages:
