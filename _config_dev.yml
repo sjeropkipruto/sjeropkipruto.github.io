@@ -1,26 +1,26 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://brittanychiang.com/
+name: Sharon Jerop Kipruto
+title: Sharon Jerop Kipruto| Software Engineer, Infrastructure
+description: Software engineer building distributed systems.
+url: https://sjeropkipruto.github.io/
 baseurl: ""
-email: brittany.chiang@gmail.com
-cover: https://brittanychiang.com/img/og.png
-logo: https://brittanychiang.com/img/emojis/technologist.png
-resume: https://brittanychiang.com/resume.pdf
+email: https://sjeropkipruto.github.io
+cover: https://sjeropkipruto.github.io/img/og.png
+logo: https://sjeropkipruto.github.io/img/emojis/technologist.png
+# resume: https://sjeropkipruto.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:jeropkipruto@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/jeropkipruto
   - title: instagram
-    url: https://instagram.com/bchiang7
+    url: https://instagram.com/jeropkipruto
   - title: codepen
-    url: http://codepen.io/bchiang7
+    url: http://codepen.io/jeropkipruto
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/sjeropkipruto
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/jerop
 
 # Build settings
 markdown: kramdown
