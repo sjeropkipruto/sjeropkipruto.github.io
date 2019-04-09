@@ -1,7 +1,7 @@
 - name: Singularity
   url: http://getsingularity.com/
   code: https://github.com/HubSpot/Singularity
-  description: Scheduler (HTTP API and webapp) for running Mesos tasks—long running processes, one-off tasks, and scheduled jobs.
+  description: Scheduler (HTTP API and webapp) for running Mesos tasks — long running processes, one-off tasks, and scheduled jobs.
   used:
     - thing: Mesos
     - thing: Java
@@ -9,10 +9,10 @@
     - thing: MySQL
     - thing: Zookeeper
 
-- name: Singularity
-  url: http://getsingularity.com/
-  code: https://github.com/HubSpot/Singularity
-  description: Scheduler (HTTP API and webapp) for running Mesos tasks—long running processes, one-off tasks, and scheduled jobs.
+- name: Baragon
+  url: https://github.com/HubSpot/Baragon
+  code: https://github.com/HubSpot/Baragon
+  description: System for automating load balancer configuration updates that pairs well with the Singularity Mesos framework.
   used:
     - thing: Mesos
     - thing: Java
